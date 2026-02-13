@@ -18,3 +18,6 @@ O código foi organizado seguindo boas práticas de HTML e CSS, dividido nas seg
 
 * **Linguagem de Marcação:** HTML5
 * **Linguagem de Estilo:** CSS3 (focado em posicionamento e paleta de cores personalizada).
+
+## Site Online
+<img width="198" height="195" alt="QRcode_site" src="https://github.com/user-attachments/assets/24e5d362-8e95-4fb5-b0fb-169741bc821f" />
